@@ -3,3 +3,6 @@
 
 # Ignore Gradle build output directory
 build
+ghaction_test.iml
+studio-admin-test1/.factorypath
+studio-admin-test2/.factorypath

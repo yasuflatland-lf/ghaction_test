@@ -1,0 +1,5 @@
+micronaut:
+  application:
+        name: studio-admin-test1
+  config-client:
+    enabled: true

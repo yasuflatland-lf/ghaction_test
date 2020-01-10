@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: studio.admin.test1
+---
+testFramework: spock
+sourceLanguage: java
