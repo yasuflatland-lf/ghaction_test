@@ -26,7 +26,6 @@ dependencies {
     annotationProcessor "io.micronaut:micronaut-inject-java"
     annotationProcessor "io.micronaut:micronaut-validation"
     annotationProcessor "io.micronaut.configuration:micronaut-openapi"
-    developmentOnly "io.micronaut:micronaut-runtime-osx:1.2.8"
     implementation platform("io.micronaut:micronaut-bom:$micronautVersion")
     implementation "io.micronaut:micronaut-management"
     implementation "io.micronaut:micronaut-inject"
